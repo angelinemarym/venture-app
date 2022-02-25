@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Haikal\Desktop\ProjectAkhir\Venture\Venture-Backend\BookingAppITDiv\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-02-06T14:57:45.0168751Z;True|2022-02-06T20:55:14.4921729+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DB">
+      <Value>server=.%3bdatabase=ProjectAkhirITDiv%3buser id=tester%3bpassword=123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
